@@ -1,2 +1,2 @@
-The weater is great! 
+The weather is great! 
 Great day for coding practice
